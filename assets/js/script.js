@@ -16,11 +16,11 @@ window.onload = function() {
         document.getElementById("choices").append(choice);
  
     }
-}
+};
 
 function selectChoice() {
     you = this.id;
-    document.getElementById("your-choice").src = you + ".png";
+    document.getElementById("your-choice").src =  you + ".png";
 
     //random for oppponent
     opponent = choices[Math.floor(Math.random() * 3)]; 
