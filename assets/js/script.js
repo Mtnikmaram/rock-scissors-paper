@@ -11,7 +11,7 @@ window.onload = function() {
         
         let choice = document.createElement("img");
         choice.id = choices[i];
-        choice.src = choices[i] + ".png";
+        choice.src ="assets/images/choices/" + choices[i] + ".png";
         choice.addEventListener("click", selectChoice);
         document.getElementById("choices").append(choice);
  
@@ -20,11 +20,11 @@ window.onload = function() {
 
 function selectChoice() {
     you = this.id;
-    document.getElementById("your-choice").src =  you + ".png";
+    document.getElementById("your-choice").src = "assets/images/choices/" + you + ".png";
 
     //random for oppponent
     opponent = choices[Math.floor(Math.random() * 3)]; 
-    document.getElementById("opponent-choice").src = opponent + ".png";
+    document.getElementById("opponent-choice").src = "assets/images/choices/" + opponent + ".png";
 
     //check for winner
     if (you == opponent) {
