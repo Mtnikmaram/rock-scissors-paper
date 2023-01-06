@@ -107,10 +107,13 @@ The method from cloning a project from GitHub is below:
 
 ## Bugs
 * the big bug was the image size and the display in other screen size.
+
 ## credits
 * The font came from [Google Fonts](https://fonts.google.com/).
 * The icons came from [Font Awesome](https://fontawesome.com/).
 * The form validation idea came from a [YouTube tutorial](https://www.youtube.com/watch?v=fNcJuPIZ2WE).
+* I have serached the google for the images.
+* I saw so many rock-paper-scissors project on the web and i came to this project.
 
 # Acknowledgements
 The site was completed as a Portfolio 1 Project piece for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). As such I would like to thank my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/), the Slack community, and all at the Code Institute for their help and support. 
