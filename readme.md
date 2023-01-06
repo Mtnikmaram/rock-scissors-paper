@@ -6,7 +6,7 @@ This is a paper rock scissors game made by Html ,Css & JavaScript.
 
 # contents
 
-* [**Features**](<#features>)
+* [**Site Structure**](<#site-structure>)
   * [Header](<#header>)
   * [player choices](<#player-choices>)
   * [The Game results](<#the-game-results>)
@@ -23,6 +23,9 @@ This is a paper rock scissors game made by Html ,Css & JavaScript.
 * [**credits**](<#credits>)
 * [**Acknowledgements**](<#acknowledgements>)
 
+## Site Structure
+
+This site is bulid to have some fun with the papaer rock scissors game
 
 ## Header
 
