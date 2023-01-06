@@ -18,6 +18,7 @@ This is a paper rock scissors game made by Html ,Css & JavaScript.
   * [Responsiveness Test](<#responsiveness-test>)
   * [Browser Compatibility](<#browser-compatibility>)
 * [**Deployment**](<#deployment>)
+* [**Bugs**](<#bugs>)
 * [**credits**](<#credits>)
 * [**Acknowledgements**](<#acknowledgements>)
 
@@ -104,6 +105,8 @@ The method from cloning a project from GitHub is below:
 5. Type **git clone**, and then paste the URL copied from GitHub.
 6. Press **enter** and the local clone will be created.
 
+## Bugs
+* the big bug was the image size and the display in other screen size.
 ## credits
 * The font came from [Google Fonts](https://fonts.google.com/).
 * The icons came from [Font Awesome](https://fontawesome.com/).
