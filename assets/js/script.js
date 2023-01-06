@@ -12,6 +12,7 @@ window.onload = function() {
         let choice = document.createElement("img");
         choice.id = choices[i];
         choice.src ="assets/images/choices/" + choices[i] + ".png";
+        choice.alt = choices[i];
         choice.addEventListener("click", selectChoice);
         document.getElementById("choices").append(choice);
  
