@@ -15,6 +15,7 @@ This is a paper rock scissors game made by Html ,Css & JavaScript.
 * [**Testing**](<#testing>)
   * [lighthouse](<#lighthouse>)
   * [HTML and CSS Validation](<#html-and-css-validation>)
+  * [JsHint](<#jshint>)
   * [Responsiveness Test](<#responsiveness-test>)
   * [Browser Compatibility](<#browser-compatibility>)
 * [**Deployment**](<#deployment>)
@@ -65,6 +66,10 @@ After fixing some errors and also some unnecessary sections in index.html or sty
 
 ![Validator](assets/images/validator.w3.png)
 ![cssvalidate](assets/images/css-validator.png)
+
+# jsHint
+ I put my js code in this site and had no errors.
+ ![JsHint](assets/images/jshint.com.png)
 
 # Responsiveness Test
 
