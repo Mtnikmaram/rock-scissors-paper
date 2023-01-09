@@ -7,21 +7,18 @@ body {
 #opponent-choice {
     width: 260px;
     height: 260px;
-    
     margin-top: 5px;
 }
 
 #your-choice {
     width: 260px;
     height: 260px;
-    
     margin-top: 5px; 
 }
 
 #choices {
     width: 260px;
     height: 80px;
-   
     margin: 0 auto;
     margin-top: 5px;
 }
