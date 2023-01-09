@@ -7,6 +7,7 @@ This is a paper rock scissors game made by Html ,Css & JavaScript.
 # contents
 
 * [**Site Structure**](<#site-structure>)
+* [**Existing features**](<#existing-features>)
   * [Header](<#header>)
   * [player choices](<#player-choices>)
   * [The Game results](<#the-game-results>)
@@ -18,8 +19,8 @@ This is a paper rock scissors game made by Html ,Css & JavaScript.
   * [JsHint](<#jshint>)
   * [Responsiveness Test](<#responsiveness-test>)
   * [Browser Compatibility](<#browser-compatibility>)
-* [**Deployment**](<#deployment>)
 * [**Bugs**](<#bugs>)
+* [**Deployment**](<#deployment>)
 * [**credits**](<#credits>)
 * [**Acknowledgements**](<#acknowledgements>)
 
@@ -27,6 +28,7 @@ This is a paper rock scissors game made by Html ,Css & JavaScript.
 
 This site is bulid to have some fun with the papaer rock scissors game
 
+## Existing features
 ## Header
 
 * In the top section you can see the header links 
@@ -89,6 +91,9 @@ After fixing some errors and also some unnecessary sections in index.html or sty
 paper-rock-scissors site was tested on the following browsers with no visible issues for the user. 
 Google Chrome and Mozilla Firefox. All the features was great.
 
+## Bugs
+* the big bug was the image size and the display in other screen size.
+
 ## Deployment
 
 ### **To deploy the project**
@@ -113,8 +118,6 @@ The method from cloning a project from GitHub is below:
 5. Type **git clone**, and then paste the URL copied from GitHub.
 6. Press **enter** and the local clone will be created.
 
-## Bugs
-* the big bug was the image size and the display in other screen size.
 
 ## credits
 * The font came from [Google Fonts](https://fonts.google.com/).
